@@ -1,0 +1,5 @@
+.idea
+/venv1/
+/venv/
+/income_classification/.ipynb_checkpoints/
+/income_classification/catboost_info/
