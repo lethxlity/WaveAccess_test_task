@@ -4,9 +4,20 @@
 ```git clone https://github.com/lethxlity/WaveAccess_test_task```
 ## 1. Income Classification
 ### Установка
+```
 cd income_classification
+```
+Необходимые для запуска и повторения экспериментов библиотеки устанавливаются в Jupyter Notebook'е через ```%```.
+```
+%pip install pandas
+%pip install catboost
+%pip install sklearn
+%pip install seaborn
+```
 ### Описание
-Пер
+Перед нами датасет Adult Census Income.\
+Задача - бинарная классификация. Необходимо определить, получает ли человек годовой доход больше суммы N, или меньше.\
+Результат выполнения задания представлен в файле ```income_classification.ipynb```. Предсказание для тестовой выборки - в файле ```predictions.txt```.
 
 ## 2. Data Summarization
 ### Установка
