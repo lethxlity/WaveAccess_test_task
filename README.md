@@ -73,4 +73,4 @@ summary = summarizer.summarize(df)
 print(summary)
 ```
 При запуске через командную строку ```python data_summarizer.py``` сгенерируется описание датафрейма Iris.\
-Так же в директории присутствуют тесты, для запуска необходимо ввести ```python -m unittest test_summarizer.py```
+Также в директории присутствуют тесты, для запуска необходимо ввести ```python -m unittest test_summarizer.py```
