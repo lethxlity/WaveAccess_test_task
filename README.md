@@ -6,7 +6,7 @@
 ```
 cd income_classification
 ```
-Необходимые для запуска и повторения экспериментов библиотеки устанавливаются в Jupyter Notebook'е через ```%```.
+Необходимые для запуска и повторения экспериментов библиотеки устанавливаются в Jupyter Notebook через ```%```.
 ```
 %pip install pandas
 %pip install catboost
