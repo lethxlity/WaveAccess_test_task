@@ -3,7 +3,6 @@
 ## Установка
 ```git clone https://github.com/lethxlity/WaveAccess_test_task```
 ## 1. Income Classification
-### Установка
 ```
 cd income_classification
 ```
